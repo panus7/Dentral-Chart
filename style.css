@@ -1,0 +1,23 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+.polygon {
+  stroke: black;
+  stroke-width: 1;
+}
+
+.unmarkedgreen {
+  fill: green;
+}
+
+.unmarked {
+  fill: white;
+}
+.marked {
+  fill: grey;
+}
+#dental-chart {
+  text-align: center;
+}
